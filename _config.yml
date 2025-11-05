@@ -1,0 +1,21 @@
+title: "PHILIPPE MEYER"
+description: "Personal page of Philippe Meyer."
+url: "https://philippemeyer68.github.io"
+baseurl: ""
+
+lang: "en"
+timezone: "Europe/Paris"
+
+markdown: kramdown
+theme: null
+plugins:
+  - jekyll-seo-tag
+
+# Author info
+author:
+  name: "Philippe Meyer"
+  affiliation: "BioRetroSynth group, MICALIS Institute (INRAE / Université Paris-Saclay)"
+  email: "philippe.meyer@inrae.fr"
+  github: "philippemeyer68"
+  scholar: "cyhP55YAAAAJ"
+  orcid: "0000-0002-0618-2947"

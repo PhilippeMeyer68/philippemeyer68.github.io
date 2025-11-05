@@ -1,0 +1,236 @@
+/* ---------- Global theme (minimalist light) ---------- */
+:root {
+  --header-bg: #f3eed9d5;         /* soft light grey header */
+
+  --bg-top: #f3eed95f;            /* near-white background top */
+  --bg-bottom: #ffffff;         /* plain white bottom */  
+
+  --text: #222222;              /* main dark text */
+  --muted: #666666;             /* secondary grey text */
+  --link: #97552b;              /* muted blue for links */
+  --link-hover: #bd1826;        /* slightly darker on hover */
+  --border: #e1e1dc;            /* light grey borders */
+  --accent: #370404df;            /* section titles, emphasis */
+
+  --footer-bg: #f3eed9d5;         /* light footer background */
+
+  --max-width: 880px;
+}
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Source Serif 4", Georgia, serif;
+  line-height: 1.75;
+  color: var(--text);
+  background: linear-gradient(to bottom, var(--bg-top) 0%, var(--bg-bottom) 100%);
+}
+
+/* ---------- Layout ---------- */
+.container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
+
+/* ---------- Header & nav ---------- */
+header {
+  background: var(--header-bg);
+  border-bottom: 1px solid var(--border);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.06);
+}
+
+.site-header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  padding: 1rem 1.5rem;
+}
+
+.site-title {
+  margin: 0;
+  font-family: "Cormorant Unicase", serif;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+.site-title a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.site-title a:hover {
+  color: var(--accent);
+}
+
+.site-tagline {
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+.site-nav {
+  display: flex;
+  gap: 1rem;
+  font-size: 0.95rem;
+}
+
+.nav-link {
+  color: var(--muted);
+  text-decoration: none;
+  padding: 0.3rem 0.5rem;
+  transition: color 0.2s ease;
+}
+
+.nav-link:hover,
+.nav-link-active {
+  color: var(--accent);
+}
+
+/* ---------- Banner (same width as content) ---------- */
+.site-banner {
+  width: 100%;
+  padding: 0;
+}
+
+.site-banner-inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  height: 45px;
+  background-image: url("/assets/images/banner_limoux_square.jpg");
+  background-repeat: repeat-x;
+  background-size: auto 100%;
+  background-position: center;
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+}
+
+/* Remove vertical padding from the container when used inside the banner */
+.site-banner .container {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+/* ---------- Hero (two columns, rectangular photo) ---------- */
+.hero {
+  margin-top: 0;
+  display: grid;
+  grid-template-columns: minmax(0, 0.8fr) minmax(0, 2.2fr);
+  gap: 0;
+  align-items: center;
+}
+
+.hero-photo {
+  display: flex;
+  justify-content: center;
+}
+
+.hero-photo img {
+  max-width: 200px;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
+  object-fit: cover;
+  background-color: #f1f1ee; /* neutral fallback */
+}
+
+/* ---------- Sections ---------- */
+.section {
+  margin: 1.5rem 0;
+  padding-top: 2rem;
+  border-top: 1px solid var(--border);
+}
+
+.section:first-of-type {
+  border-top: none;
+  padding-top: 0;
+}
+
+.section h3 {
+  margin-top: 0;
+  margin-bottom: 0.8rem;
+  color: var(--accent);
+  font-family: "Playfair Display", Georgia, serif;
+  font-weight: 600;
+  font-size: 1.5em;
+  letter-spacing: 0.02em;
+}
+
+/* ---------- Lists ---------- */
+ul {
+  margin-top: 0.6rem;
+  padding-left: 1.2rem;
+}
+
+ul li + li {
+  margin-top: 0.3rem;
+}
+
+/* ---------- External links (if you use .external-links) ---------- */
+.external-links {
+  font-size: 1rem;
+  color: var(--muted);
+}
+
+.external-links a {
+  color: var(--text);
+  text-decoration: none;
+  padding: 0 0.25rem;
+  transition: color 0.2s ease;
+}
+
+.external-links a:hover {
+  color: var(--accent);
+}
+
+.external-links span {
+  padding: 0 0.15rem;
+  color: var(--border);
+}
+
+/* ---------- Footer ---------- */
+footer {
+  margin-top: 0;
+  padding: 0rem 0 0rem;
+  text-align: center;
+  font-size: 0.9rem;
+  color: var(--text);
+  border-top: 1px solid var(--border);
+  background: var(--footer-bg);
+}
+
+/* ---------- Global links ---------- */
+a {
+  color: var(--link);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--link-hover);
+}
+
+/* ---------- Responsive ---------- */
+@media (max-width: 768px) {
+  header .container {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .hero {
+    grid-template-columns: 1fr;
+    row-gap: 1.5rem;
+  }
+
+  .hero-photo {
+    justify-content: flex-start;
+  }
+}

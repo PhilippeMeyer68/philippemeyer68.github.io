@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>
+      {% if page.title %}{{ page.title }} – {{ site.title }}{% else %}{{ site.title }}{% endif %}
+    </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    {% if site.description %}
+    <meta name="description" content="{{ site.description }}">
+    {% endif %}
+
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Serif+4:opsz@12..72&display=swap" rel="stylesheet">
+
+    {% if site.plugins contains 'jekyll-seo-tag' %}
+      {% seo %}
+    {% endif %}
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-inner">
+        <div class="site-title-block">
+          <h1 class="site-title">
+            <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+          </h1>
+          {% if site.tagline %}
+          <p class="site-tagline">{{ site.tagline }}</p>
+          {% endif %}
+        </div>
+        <nav class="site-nav">
+          <a href="{{ '/' | relative_url }}" class="nav-link nav-link-active">Home</a>
+        </nav>
+      </div>
+    </header>
+
+    <!--
+    <div class="site-banner">
+    <div class="container">
+      <div class="site-banner-inner"></div>
+    </div>
+  </div>
+-->
+  
+    <main class="site-main">
+      <div class="container">
+        {{ content }}
+      </div>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name | default: site.title }}.</p>
+        <p class="footer-meta">
+          Last updated: {{ site.time | date: '%B %d, %Y' }}.
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>
