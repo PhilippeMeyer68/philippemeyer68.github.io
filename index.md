@@ -50,7 +50,7 @@ title: "Home"
   <strong>Reverse engineering molecules from fingerprints through deterministic enumeration and generative models, </strong>
   Meyer, P., Duigou, T., Gricourt, G., Faulon, J.-L.,
   <em>Journal of Cheminformatics</em>, 17 (1), 157, 2025.
-  <a href="https://doi.org/10.1186/s13321-025-01074-5" target="_blank" rel="noopener">Link</a><!-- , <a href="https://sco.lt/4xKTbM" target="_blank" rel="noopener">News (UPSaclay)</a> -->
+  <a href="https://doi.org/10.1186/s13321-025-01074-5" target="_blank" rel="noopener">Link</a>, <a href="https://github.com/brsynth/molecule-signature" target="_blank" rel="noopener">Code</a><!-- , <a href="https://sco.lt/4xKTbM" target="_blank" rel="noopener">News (UPSaclay)</a> -->
 </li>
 
 <li>
@@ -64,7 +64,7 @@ title: "Home"
   <strong>Analysis of Glyph and Writing System Similarities using Siamese Neural Networks, </strong>
   Roman, C., Meyer, P.,
   <em>Proceedings of the Third Workshop on Language Technologies for Historical and Ancient Languages (LT4HALA) @ LREC-COLING-2024</em>, 98–104, 2024.
-  <a href="https://aclanthology.org/2024.lt4hala-1.12/" target="_blank" rel="noopener">Link</a>, <a href="https://hal.science/hal-04597366/" target="_blank" rel="noopener">Poster</a>
+  <a href="https://aclanthology.org/2024.lt4hala-1.12/" target="_blank" rel="noopener">Link</a>, <a href="https://hal.science/hal-04597366/" target="_blank" rel="noopener">Poster</a>, <a href="https://github.com/PhilippeMeyer68/glyph-SNN" target="_blank" rel="noopener">Code</a>
 </li>
 
 <li>
