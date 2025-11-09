@@ -64,7 +64,7 @@ title: "Home"
   <strong>Analysis of Glyph and Writing System Similarities using Siamese Neural Networks, </strong>
   Roman, C., Meyer, P.,
   <em>Proceedings of the Third Workshop on Language Technologies for Historical and Ancient Languages (LT4HALA) @ LREC-COLING-2024</em>, 98–104, 2024.
-  <a href="https://aclanthology.org/2024.lt4hala-1.12/" target="_blank" rel="noopener">Link</a>, <a href="https://hal.science/hal-04597366/" target="_blank" rel="noopener">Poster</a>, <a href="https://github.com/PhilippeMeyer68/glyph-SNN" target="_blank" rel="noopener">Code</a>
+  <a href="https://aclanthology.org/2024.lt4hala-1.12/" target="_blank" rel="noopener">Link</a>, <a href="https://hal.science/hal-04597366/" target="_blank" rel="noopener">Poster</a>, <a href="https://github.com/PhilippeMeyer68/glyph-SNN" target="_blank" rel="noopener">Code</a>, <a href="{{ '/glyph.html' | relative_url }}" target="_blank" rel="noopener">3D view</a>
 </li>
 
 <li>
