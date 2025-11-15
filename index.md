@@ -160,7 +160,7 @@ title: "Home"
   <ul>
 <li>
   <strong>Arques église : Sainte Anne offrant une poire à l'enfant Jésus, </strong>
-  Meyer, P., <em>Gazette de Rennes-le-château</em>, 2023.
+  Meyer, P., <em>Gazette de Rennes-le-Château</em>, 2023.
   <a href="https://portail-rennes-le-chateau.com/arques-ainte-anne-offrant-une-poire-a-lenfant-jesus-eglise/" target="_blank" rel="noopener">Link</a>
 </li>
 
@@ -194,7 +194,7 @@ title: "Home"
     <h3 class="section-title">Other</h3>
   </div>
   <p>
-    I preserve and share the work of my grandfather Pierre Meyer on traces of a prehistoric civilisation in Alsace (6000–2000 BC) centred around the cult of the Great Goddess.
+    I preserve and share the work of my grandfather Pierre Meyer on traces of a prehistoric civilisation in Alsace (6000–2000 BC), characterised by a Great Goddess cult.
     <a href="https://www.youtube.com/@mysteresdelagrandedeesse112/" target="_blank" rel="noopener">
       YouTube</a>,
     <a href="https://amzn.eu/d/gH21WYH" target="_blank" rel="noopener">Book</a>
