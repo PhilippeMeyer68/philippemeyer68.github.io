@@ -234,3 +234,50 @@ a:hover {
     justify-content: flex-start;
   }
 }
+
+/* Clickable profile photo */
+.hero-photo img {
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+/* Modal background */
+.modal {
+  display: none;
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background: rgba(0,0,0,0.85);
+  text-align: center;
+  padding-top: 5vh;
+  z-index: 9999;
+}
+
+/* Open modal when URL hash is #photo-modal */
+.modal:target {
+  display: block;
+}
+
+/* Full-size image */
+.modal-img {
+  max-width: 90%;
+  max-height: 80vh;
+  border-radius: 6px;
+}
+
+/* Caption */
+.modal-caption {
+  color: #fff;
+  margin-top: 10px;
+  font-size: 1.1em;
+}
+
+/* Close button */
+.modal-close {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  color: #fff;
+  font-size: 40px;
+  text-decoration: none;
+}

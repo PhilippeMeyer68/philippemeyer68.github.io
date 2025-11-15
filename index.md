@@ -4,9 +4,18 @@ title: "Home"
 ---
 
 <section class="hero">
-  <div class="hero-photo">
+<div class="hero-photo">
+  <a href="#photo-modal">
     <img src="/assets/images/profile_picture.jpg" alt="Philippe Meyer">
-  </div>
+  </a>
+</div>
+
+<!-- Modal -->
+<div id="photo-modal" class="modal">
+  <a href="#" class="modal-close">&times;</a>
+  <img src="/assets/images/michel_deseille_and_me.jpg" class="modal-img" alt="Full-size photo of Philippe Meyer">
+  <p class="modal-caption">With Michel Deseille in Arques (Aude), 16 August 2022</p>
+</div>
 
   <div class="hero-card">
     <p class="hero-role">

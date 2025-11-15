@@ -18,7 +18,7 @@ permalink: /past-talks/
 
 <li>
   <strong>Topological Data Analysis based framework for Human Body Shapes Classification, </strong>
-  <em>1st Workshop of the EUt+ Data Science Research Institute  online</em>, 18.01.2022.
+  <em>1st Workshop of the EUt+ Data Science Research Institute, online</em>, 18.01.2022.
 </li>
 
 <li>
