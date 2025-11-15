@@ -188,3 +188,15 @@ title: "Home"
     <span>&nbsp;&middot;&nbsp;</span>
     <a href="https://www.linkedin.com/in/philippemeyer68" target="_blank" rel="noopener">LinkedIn</a>
 </section>
+
+<section class="section">
+  <div class="section-header">
+    <h3 class="section-title">Other</h3>
+  </div>
+  <p>
+    I preserve and share the work of my grandfather Pierre Meyer on traces of a prehistoric civilisation in Alsace (6000–2000 BC) centred around the cult of the Great Goddess.
+    <a href="https://www.youtube.com/@mysteresdelagrandedeesse112/" target="_blank" rel="noopener">
+      YouTube</a>,
+    <a href="https://amzn.eu/d/gH21WYH" target="_blank" rel="noopener">Book</a>
+    </p>
+</section>
