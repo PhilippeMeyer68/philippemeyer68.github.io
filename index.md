@@ -127,6 +127,20 @@ title: "Home"
 
 <section class="section">
   <div class="section-header">
+    <h3 class="section-title">Talks</h3>
+  </div>
+  <ul>
+<li>
+  <strong>Deterministic and Generative Approaches to Reverse-Engineering Molecular Fingerprint, </strong>
+  <em>Septième édition du Symposium MaDICS (Masses de Données, Informations et Connaissances en Sciences), Toulouse</em>, 27.05.2025.
+</li>
+<p><a href="{{ '/past-talks/' | relative_url }}">Past talks</a></p>
+
+</ul>
+</section>
+
+<section class="section">
+  <div class="section-header">
     <h3 class="section-title">Documents</h3>
   </div>
   <ul>
