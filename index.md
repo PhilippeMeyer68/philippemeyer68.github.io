@@ -14,7 +14,7 @@ title: "Home"
 <div id="photo-modal" class="modal">
   <a href="#" class="modal-close">&times;</a>
   <img src="/assets/images/michel_deseille_and_me.jpg" class="modal-img" alt="Full-size photo of Philippe Meyer">
-  <p class="modal-caption">With Michel Deseille in Arques (Aude), 16 August 2022</p>
+  <p class="modal-caption">With my dear friend Michel Deseille in Arques (Aude), 16 August 2022</p>
 </div>
 
   <div class="hero-card">
