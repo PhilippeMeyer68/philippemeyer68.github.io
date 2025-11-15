@@ -132,6 +132,11 @@ title: "Home"
   <ul>
 <li>
   <strong>Deterministic and Generative Approaches to Reverse-Engineering Molecular Fingerprint, </strong>
+  <em>Journée Outils numériques de l'axe 4 du PEPR B-BEST, Paris</em>, 18.11.2025.
+</li>
+
+<li>
+  <strong>Deterministic and Generative Approaches to Reverse-Engineering Molecular Fingerprint, </strong>
   <em>Septième édition du Symposium MaDICS (Masses de Données, Informations et Connaissances en Sciences), Toulouse</em>, 27.05.2025.
 </li>
 <p><a href="{{ '/past-talks/' | relative_url }}">Past talks</a></p>
