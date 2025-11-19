@@ -59,7 +59,7 @@ title: "Home"
   <strong>Reverse engineering molecules from fingerprints through deterministic enumeration and generative models, </strong>
   Meyer, P., Duigou, T., Gricourt, G., Faulon, J.-L.,
   <em>Journal of Cheminformatics</em>, 17 (1), 157, 2025.
-  <a href="https://doi.org/10.1186/s13321-025-01074-5" target="_blank" rel="noopener">Link</a>, <a href="https://github.com/brsynth/molecule-signature" target="_blank" rel="noopener">Code</a><!-- , <a href="https://sco.lt/4xKTbM" target="_blank" rel="noopener">News (UPSaclay)</a> -->
+  <a href="https://doi.org/10.1186/s13321-025-01074-5" target="_blank" rel="noopener">Link</a>, <a href="https://github.com/brsynth/molecule-signature" target="_blank" rel="noopener">Code</a>, <a href="https://sco.lt/4xKTbM" target="_blank" rel="noopener">News (UPSaclay)</a>
 </li>
 
 <li>
