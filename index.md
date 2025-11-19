@@ -140,6 +140,11 @@ title: "Home"
   </div>
   <ul>
 <li>
+  <strong>Deterministic and Generative Approaches to Reverse-Engineering Molecular Fingerprint, </strong>
+  <em>12e journées de la Société Française de Chémoinformatique (SFCi), Paris</em>, 10.12.2025.
+</li>
+
+<li>
   <strong>Rétro-ingénierie de la représentation moléculaire ECFP, </strong>
   <em>Journée Outils numériques de l'axe 4 du PEPR B-BEST, Paris</em>, 18.11.2025.
 </li>
