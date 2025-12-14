@@ -35,13 +35,6 @@ title: "Home"
   </div>
   <ul>
 <li>
-  <strong>RetroRules 2026: an expanded database combining biochemical and organic reaction templates for pathway discovery, </strong>
-  Duigou, T., Meyer, P., Faulon, J.-L.,
-  to appear in <em>Nucleic Acids Research</em>, 2025.
-  <a href="https://hal.science/hal-05267743/" target="_blank" rel="noopener">Link</a>
-</li>
-
-<li>
   <strong>Living Bacterial Reservoir Computers for Information Processing and Sensing, </strong>
   Ahavi, P., Hoang, A., Meyer, P., Berthier, S., Fiorini, F., Castelli, F., Epaulard, O., Le Gouellec, A., Faulon, J.-L.,
   in reviewing, 2025.
@@ -55,6 +48,13 @@ title: "Home"
     <h3 class="section-title">Publications</h3>
   </div>
   <ul>
+<li>
+  <strong>RetroRules 2026: an expanded database combining biochemical and organic reaction templates for pathway discovery, </strong>
+  Duigou, T., Meyer, P., Faulon, J.-L.,
+  <em>Nucleic Acids Research</em>, 2025.
+  <a href="https://doi.org/10.1093/nar/gkaf1261" target="_blank" rel="noopener">Link</a>
+</li>
+
 <li>
   <strong>Reverse engineering molecules from fingerprints through deterministic enumeration and generative models, </strong>
   Meyer, P., Duigou, T., Gricourt, G., Faulon, J.-L.,
