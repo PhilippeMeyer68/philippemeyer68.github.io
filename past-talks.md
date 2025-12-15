@@ -12,6 +12,18 @@ permalink: /past-talks/
 <ul>
 
 <li>
+  <strong>Artificial intelligence methods and models for retro-biosynthesis (Poster session), </strong>
+  <em>AI Methods and Models for (Bio)Catalysis and Synthetic Biology pré-BioSynSys 2024 workshop, Montpellier</em>, 05.06.2024.
+</li>
+
+<li>
+  <strong>Glyph and writing system similarities using siamese neural networks (Poster session), </strong>
+  <em>The Third Workshop on Language Technologies for Historical and Ancient Languages
+(LT4HALA 2024, LREC-COLING 2024), Turin, (Italie)</em>, 25.05.2024.
+</li>
+
+
+<li>
   <strong>Méthode de clustering par analyse topologique de données, </strong>
   <em>Séminaire Axe Traitement de données, LIST3N, Laboratoire Informatique et Société Numérique, Troyes</em>, 31.03.2022.
 </li>
