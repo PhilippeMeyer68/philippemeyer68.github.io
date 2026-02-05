@@ -38,7 +38,7 @@ title: "Home"
   <strong>Living Bacterial Reservoir Computers for Information Processing and Sensing, </strong>
   Ahavi, P., Hoang, A., Meyer, P., Berthier, S., Fiorini, F., Castelli, F., Epaulard, O., Le Gouellec, A., Faulon, J.-L.,
   in reviewing, 2025.
-  <a href="https://www.biorxiv.org/content/10.1101/2024.09.12.612674v3" target="_blank" rel="noopener">Link</a>
+  <a href="https://www.biorxiv.org/content/10.1101/2024.09.12.612674v4" target="_blank" rel="noopener">Link</a>
 </li>
 </ul>
 </section>
