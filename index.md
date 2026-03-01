@@ -158,6 +158,27 @@ title: "Home"
 </ul>
 </section>
 
+
+<section class="section">
+  <div class="section-header">
+    <h3 class="section-title">Workshops</h3>
+  </div>
+  <ul>
+<li>
+  Co-organisor of the <strong>Journée Outils numériques de l’axe 4 du PEPR B-BEST,</strong>
+  <em>Institut des Systèmes Complexes, Paris</em>, 18.11.2025.
+  <a href="{{ '/assets/docs/philippe_meyer_workshop_pepr_18_11_2025.pdf' | relative_url }}" target="_blank" rel="noopener">Flyer</a>
+</li>
+
+<li>
+  Co-organisor of the <strong>AI Methods and Models for (Bio)Catalysis and Synthetic Biology Workshop,</strong>
+  <em>pre BioSynSys 2024, Montpellier</em>, 05.06.2024.
+  <a href="https://jfaulon.com/ai-workshop/" target="_blank" rel="noopener">Link</a>, 
+  <a href="https://jfaulon.com/wp-content/uploads/AI-Workshop-2024-Booklet.pdf" target="_blank" rel="noopener">Booklet</a>
+</li>
+</ul>
+</section>
+
 <section class="section">
   <div class="section-header">
     <h3 class="section-title">Documents</h3>
