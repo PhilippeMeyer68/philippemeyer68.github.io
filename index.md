@@ -37,8 +37,14 @@ title: "Home"
 <li>
   <strong>Living Bacterial Reservoir Computers for Information Processing and Sensing, </strong>
   Ahavi, P., Hoang, A., Meyer, P., Berthier, S., Fiorini, F., Castelli, F., Epaulard, O., Le Gouellec, A., Faulon, J.-L.,
-  in reviewing, 2025.
+  in reviewing, 2026.
   <a href="https://www.biorxiv.org/content/10.1101/2024.09.12.612674v4" target="_blank" rel="noopener">Link</a>
+</li>
+<li>
+  <strong>Contrastive-to-Self-Supervised: A Two-Stage Framework for Script Similarity Learning, </strong>
+  Roman, C., Meyer, P.,
+  in reviewing, 2026.
+   <a href="{{ '/assets/docs/philippe_meyer_css_2026.pdf' | relative_url }}" target="_blank" rel="noopener">Link</a>
 </li>
 </ul>
 </section>
