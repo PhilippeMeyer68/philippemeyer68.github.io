@@ -35,13 +35,18 @@ title: "Home"
   </div>
   <ul>
 <li>
-  <strong>Living Bacterial Reservoir Computers for Information Processing and Sensing, </strong>
+  <strong>End-to-end mapping of membrane transport from chemical structure to microorganisms, </strong>
+  Gricourt, G., Duigou, T., Meyer, P., Faulon, J.-L.,
+  in reviewing, 2026.
+</li>
+<li>
+  <strong>Living bacterial reservoir computers for information processing and sensing, </strong>
   Ahavi, P., Hoang, A., Meyer, P., Berthier, S., Fiorini, F., Castelli, F., Epaulard, O., Le Gouellec, A., Faulon, J.-L.,
   in reviewing, 2026.
   <a href="https://www.biorxiv.org/content/10.1101/2024.09.12.612674v4" target="_blank" rel="noopener">Link</a>
 </li>
 <li>
-  <strong>Contrastive-to-Self-Supervised: A Two-Stage Framework for Script Similarity Learning, </strong>
+  <strong>Contrastive-to-self-supervised: a two-stage framework for script similarity learning, </strong>
   Roman, C., Meyer, P.,
   in reviewing, 2026.
    <a href="{{ '/assets/docs/philippe_meyer_css_2026.pdf' | relative_url }}" target="_blank" rel="noopener">Link</a>
@@ -76,7 +81,7 @@ title: "Home"
 </li>
 
 <li>
-  <strong>Analysis of Glyph and Writing System Similarities using Siamese Neural Networks, </strong>
+  <strong>Analysis of glyph and writing system similarities using siamese neural networks, </strong>
   Roman, C., Meyer, P.,
   <em>Proceedings of the Third Workshop on Language Technologies for Historical and Ancient Languages (LT4HALA) @ LREC-COLING-2024</em>, 98–104, 2024.
   <a href="https://aclanthology.org/2024.lt4hala-1.12/" target="_blank" rel="noopener">Link</a>, <a href="https://hal.science/hal-04597366/" target="_blank" rel="noopener">Poster</a>, <a href="https://github.com/PhilippeMeyer68/glyph-SNN" target="_blank" rel="noopener">Code</a>, <a href="{{ '/glyph.html' | relative_url }}" target="_blank" rel="noopener">3D view</a>
