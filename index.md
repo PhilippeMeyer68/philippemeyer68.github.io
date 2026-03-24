@@ -40,12 +40,6 @@ title: "Home"
   in reviewing, 2026.
 </li>
 <li>
-  <strong>Living bacterial reservoir computers for information processing and sensing, </strong>
-  Ahavi, P., Hoang, A., Meyer, P., Berthier, S., Fiorini, F., Castelli, F., Epaulard, O., Le Gouellec, A., Faulon, J.-L.,
-  in reviewing, 2026.
-  <a href="https://www.biorxiv.org/content/10.1101/2024.09.12.612674v4" target="_blank" rel="noopener">Link</a>
-</li>
-<li>
   <strong>Contrastive-to-self-supervised: a two-stage framework for script similarity learning, </strong>
   Roman, C., Meyer, P.,
   in reviewing, 2026.
@@ -59,6 +53,12 @@ title: "Home"
     <h3 class="section-title">Publications</h3>
   </div>
   <ul>
+<li>
+  <strong>Living bacterial reservoir computers for information processing and sensing, </strong>
+  Ahavi, P., Hoang, A., Meyer, P., Berthier, S., Fiorini, F., Castelli, F., Epaulard, O., Le Gouellec, A., Faulon, J.-L.,
+  to appear in <em>Cell Systems</em>, 2026.
+  <a href="https://www.biorxiv.org/content/10.1101/2024.09.12.612674v4" target="_blank" rel="noopener">Link</a>
+</li>
 <li>
   <strong>RetroRules 2026: an expanded database combining biochemical and organic reaction templates for pathway discovery, </strong>
   Duigou, T., Meyer, P., Faulon, J.-L.,
