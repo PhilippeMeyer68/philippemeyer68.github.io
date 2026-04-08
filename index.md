@@ -151,6 +151,11 @@ title: "Home"
   </div>
   <ul>
 <li>
+  <strong>Glyph and writing system similarities using siamese neural networks (Poster session), </strong>
+  <em>Huitième édition du Symposium MaDICS (Masses de Données, Informations et Connaissances en Sciences), Avignon</em>, 02.06.2026.
+</li>
+
+<li>
   <strong>Deterministic and Generative Approaches to Reverse-Engineering Molecular Fingerprint, </strong>
   <em>12e journées de la Société Française de Chémoinformatique (SFCi), Paris</em>, 10.12.2025.
 </li>
