@@ -151,6 +151,11 @@ title: "Home"
   </div>
   <ul>
 <li>
+  <strong>Vectorized Retrosynthesis for Multi-Step Planning in ECFP Space, </strong>
+  <em>Huitième édition du Symposium MaDICS (Masses de Données, Informations et Connaissances en Sciences), Avignon</em>, 02.06.2026.
+</li>
+
+<li>
   <strong>Glyph and writing system similarities using siamese neural networks (Poster session), </strong>
   <em>Huitième édition du Symposium MaDICS (Masses de Données, Informations et Connaissances en Sciences), Avignon</em>, 02.06.2026.
 </li>
