@@ -152,12 +152,17 @@ title: "Home"
   <ul>
 <li>
   <strong>Vectorized Retrosynthesis for Multi-Step Planning in ECFP Space, </strong>
-  <em>Huitième édition du Symposium MaDICS (Masses de Données, Informations et Connaissances en Sciences), Avignon</em>, 02.06.2026.
+  <em>Huitième édition du Symposium MaDICS (Masses de Données, Informations et Connaissances en Sciences), Avignon</em>, 03.06.2026.
 </li>
 
 <li>
   <strong>Glyph and writing system similarities using siamese neural networks (Poster session), </strong>
   <em>Huitième édition du Symposium MaDICS (Masses de Données, Informations et Connaissances en Sciences), Avignon</em>, 02.06.2026.
+</li>
+
+<li>
+  <strong>Reconstructing molecular structures from fingerprints: deterministic and generative approaches for chemical space exploration (Poster session), </strong>
+  <em>The French Industrial Chemistry Symposium (FICS) organized by the French Chemical Society, Paris</em>, 24.04.2026.
 </li>
 
 <li>
