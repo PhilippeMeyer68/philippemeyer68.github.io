@@ -8,8 +8,22 @@ permalink: /past-talks/
   <div class="section-header">
     <h3 class="section-title">Past Talks</h3>
   </div>
-
 <ul>
+
+<li>
+  <strong>Deterministic and Generative Approaches to Reverse-Engineering Molecular Fingerprint, </strong>
+  <em>12e journées de la Société Française de Chémoinformatique (SFCi), Paris</em>, 10.12.2025.
+</li>
+
+<li>
+  <strong>Rétro-ingénierie de la représentation moléculaire ECFP, </strong>
+  <em>Journée Outils numériques de l'axe 4 du PEPR B-BEST, Paris</em>, 18.11.2025.
+</li>
+
+<li>
+  <strong>Deterministic and Generative Approaches to Reverse-Engineering Molecular Fingerprint, </strong>
+  <em>Septième édition du Symposium MaDICS (Masses de Données, Informations et Connaissances en Sciences), Toulouse</em>, 27.05.2025.
+</li>
 
 <li>
   <strong>Artificial intelligence methods and models for retro-biosynthesis (Poster session), </strong>

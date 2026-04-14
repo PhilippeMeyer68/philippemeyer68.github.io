@@ -162,23 +162,9 @@ title: "Home"
 
 <li>
   <strong>Reconstructing molecular structures from fingerprints: deterministic and generative approaches for chemical space exploration (Poster session), </strong>
-  <em>The French Industrial Chemistry Symposium (FICS) organized by the French Chemical Society, Paris</em>, 24.04.2026.
+  <em>The 4th French Industrial Chemistry Symposium (FICS) organized by the French Chemical Society, Paris</em>, 24.04.2026.
 </li>
 
-<li>
-  <strong>Deterministic and Generative Approaches to Reverse-Engineering Molecular Fingerprint, </strong>
-  <em>12e journées de la Société Française de Chémoinformatique (SFCi), Paris</em>, 10.12.2025.
-</li>
-
-<li>
-  <strong>Rétro-ingénierie de la représentation moléculaire ECFP, </strong>
-  <em>Journée Outils numériques de l'axe 4 du PEPR B-BEST, Paris</em>, 18.11.2025.
-</li>
-
-<li>
-  <strong>Deterministic and Generative Approaches to Reverse-Engineering Molecular Fingerprint, </strong>
-  <em>Septième édition du Symposium MaDICS (Masses de Données, Informations et Connaissances en Sciences), Toulouse</em>, 27.05.2025.
-</li>
 <p><a href="{{ '/past-talks/' | relative_url }}">Past talks</a></p>
 
 </ul>
