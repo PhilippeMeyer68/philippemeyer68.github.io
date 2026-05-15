@@ -38,6 +38,7 @@ title: "Home"
   <strong>End-to-end mapping of membrane transport from chemical structure to microorganisms, </strong>
   Gricourt, G., Duigou, T., Meyer, P., Faulon, J.-L.,
   in reviewing, 2026.
+    <a href="https://www.biorxiv.org/content/10.64898/2026.05.12.724480v1" target="_blank" rel="noopener">Link</a>
 </li>
 <li>
   <strong>Contrastive-to-self-supervised: a two-stage framework for script similarity learning, </strong>
