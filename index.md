@@ -35,6 +35,12 @@ title: "Home"
   </div>
   <ul>
 <li>
+  <strong>Representing chemical and enzymatic reactions in fingerprint space for applicability filtering and classification, </strong>
+  Meyer, P., Duigou, T., Gricourt, G., Faulon, J.-L.,
+  in reviewing, 2026.
+    <a href="https://doi.org/10.26434/chemrxiv.15006884/v1" target="_blank" rel="noopener">Link</a>, <a href="https://github.com/brsynth/morganrxn" target="_blank" rel="noopener">Code</a>
+</li>
+<li>
   <strong>End-to-end mapping of membrane transport from chemical structure to microorganisms, </strong>
   Gricourt, G., Duigou, T., Meyer, P., Faulon, J.-L.,
   in reviewing, 2026.
