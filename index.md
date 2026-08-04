@@ -158,6 +158,11 @@ title: "Home"
   </div>
   <ul>
 
+<li>
+  <strong>Vectorized Chemical Reactions and Fingerprint Reverse Engineering for Molecular Design, </strong>
+  <em>19th GCC - German Conference on Cheminformatics, Bad Soden am Taunus (Germany)</em>, 10.11.2026.
+</li>
+
 <p><a href="{{ '/past-talks/' | relative_url }}">Past talks</a></p>
 
 </ul>
