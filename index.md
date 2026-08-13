@@ -35,6 +35,12 @@ title: "Home"
   </div>
   <ul>
 <li>
+  <strong>Engineering growth-coupled metabolic biosensors for disease prognosis and diagnosis using full growth trajectories, </strong>
+  Ahavi, P., Hoang, A., Meyer, P., Epaulard, O., Le Gouellec, A., Faulon, J.-L.,
+  in reviewing, 2026.
+    <a href="https://doi.org/10.64898/2026.08.04.740108" target="_blank" rel="noopener">Link</a>, <a href="https://github.com/brsynth/mutant-covid" target="_blank" rel="noopener">Code</a>
+</li>
+<li>
   <strong>Representing chemical and enzymatic reactions in fingerprint space for applicability filtering and classification, </strong>
   Meyer, P., Duigou, T., Gricourt, G., Faulon, J.-L.,
   in reviewing, 2026.
