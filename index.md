@@ -172,6 +172,10 @@ title: "Home"
   <ul>
 
 <li>
+  <strong>From Molecules to Metabolic Pathways: Computational Approaches for Retrobiosynthesis and Bioproduction, </strong>
+  <em>Séminaire Micalis</em>, 11.09.2026.
+</li>
+<li>
   <strong>Vectorized Chemical Reactions and Fingerprint Reverse Engineering for Molecular Design, </strong>
   <em>19th GCC - German Conference on Cheminformatics, Bad Soden am Taunus (Germany)</em>, 10.11.2026.
 </li>
