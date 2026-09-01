@@ -35,6 +35,13 @@ title: "Home"
   </div>
   <ul>
 <li>
+  <strong>An agentic retrobiosynthesis framework with learned frontier selection
+, </strong>
+  Meyer, P., Gricourt, G., Duigou, T., Hérisson J., Faulon, J.-L.,
+  in reviewing, 2026.
+    <a href="https://arxiv.org/abs/2608.30702" target="_blank" rel="noopener">Link</a>
+</li>
+<li>
   <strong>Engineering growth-coupled metabolic biosensors for disease prognosis and diagnosis using full growth trajectories, </strong>
   Ahavi, P., Hoang, A., Meyer, P., Epaulard, O., Le Gouellec, A., Faulon, J.-L.,
   in reviewing, 2026.
