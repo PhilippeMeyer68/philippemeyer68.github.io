@@ -220,11 +220,6 @@ title: "Home"
     <h3 class="section-title">Documents</h3>
   </div>
   <ul>
-<li>
-  <strong>Arques église : Sainte Anne offrant une poire à l'enfant Jésus, </strong>
-  Meyer, P., <em>Gazette de Rennes-le-Château</em>, 2023.
-  <a href="https://portail-rennes-le-chateau.com/arques-ainte-anne-offrant-une-poire-a-lenfant-jesus-eglise/" target="_blank" rel="noopener">Link</a>
-</li>
 
 <li>
   <strong>Représentations associées à des graduations d'algèbres de Lie et d'algèbres de Lie colorées, </strong>
@@ -261,4 +256,9 @@ title: "Home"
       YouTube</a>,
     <a href="https://amzn.eu/d/gH21WYH" target="_blank" rel="noopener">Book</a>
     </p>
+
+  <p>
+    I also have a long-standing interest in Rennes-le-Château, its local history and heritage, and the enduring mystery surrounding the alleged treasure associated with the village. I occasionally write about related historical and iconographic subjects.
+    <a href="https://portail-rennes-le-chateau.com/arques-ainte-anne-offrant-une-poire-a-lenfant-jesus-eglise/" target="_blank" rel="noopener">Article</a>
+  </p>
 </section>
