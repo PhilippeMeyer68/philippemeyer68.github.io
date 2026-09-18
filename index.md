@@ -19,7 +19,7 @@ title: "Home"
 
   <div class="hero-card">
     <p class="hero-role">
-    I work in the <a href="https://jfaulon.com/" target="_blank" rel="noopener">BioRetroSynth group</a> at the <a href="https://www.micalis.fr/" target="_blank" rel="noopener">MICALIS Institute</a>, a joint research unit of <a href="https://www.inrae.fr/" target="_blank" rel="noopener">INRAE</a>, <a href="https://www.agroparistech.fr" target="_blank" rel="noopener">AgroParisTech</a>, and the <a href="https://www.universite-paris-saclay.fr" target="_blank" rel="noopener">University of Paris-Saclay</a>, located in the Paris area, France.
+    I work in the <a href="https://jfaulon.com/" target="_blank" rel="noopener">BioRetroSynth group</a> at the <a href="https://www.micalis.fr/" target="_blank" rel="noopener">Micalis Institute</a>, a joint research unit of <a href="https://www.inrae.fr/" target="_blank" rel="noopener">INRAE</a>, <a href="https://www.agroparistech.fr" target="_blank" rel="noopener">AgroParisTech</a>, and the <a href="https://www.universite-paris-saclay.fr" target="_blank" rel="noopener">University of Paris-Saclay</a>, located in the Paris area, France.
     </p>
     <p class="hero-text">
       I am a computational scientist with a background in applied mathematics, working at the interface of <strong>cheminformatics</strong>, <strong>bioinformatics</strong>, and <strong>artificial intelligence</strong>. My research focuses on <strong>molecular and pathway design</strong>, combining <strong>generative models</strong>, <strong>agentic AI</strong>, <strong>retrosynthesis and retrobiosynthesis</strong>, and <strong>hybrid mechanistic–machine learning approaches</strong> to explore chemical and biological design spaces. I develop computational methods and scientific software for molecular generation, reaction and pathway prediction, and the modeling of biological systems.
@@ -111,7 +111,7 @@ title: "Home"
   <strong>Human body shapes anomaly detection and classification using persistent homology, </strong>
   de Rose, S., Meyer, P., Bertrand, F.,
   <em>Machine Learning for Pattern Recognition, Algorithms</em>, 16 (3), 161, 2023.
-  <a href="https://doi.org/10.3390/a16030161" target="_blank" rel="noopener">Link</a>
+  <a href="https://doi.org/10.3390/a16030161" target="_blank" rel="noopener">Link</a>, <a href="https://github.com/PhilippeMeyer68/TDA_Morphotypes" target="_blank" rel="noopener">Code</a>
 </li>
 
 <li>

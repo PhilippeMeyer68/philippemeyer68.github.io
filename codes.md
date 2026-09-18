@@ -61,7 +61,7 @@ permalink: /codes/
 </li>
 
 <li>
-  2023 – <strong><a href="https://github.com/PhilippeMeyer68/body-TDA" target="_blank" rel="noopener">Human Body Shapes</a>: </strong>
+  2023 – <strong><a href="https://github.com/PhilippeMeyer68/TDA_Morphotypes" target="_blank" rel="noopener">Human Body Shapes</a>: </strong>
   <strong>Topological data analysis</strong> of 3D human body scans, with <strong>persistence diagrams</strong> compared through <strong>bottleneck</strong> and <strong>Wasserstein</strong> distances and vectorized as <strong>persistence silhouettes</strong>, for anomaly detection and body shape classification.
   <a href="https://doi.org/10.3390/a16030161" target="_blank" rel="noopener">Paper</a>
 </li>
