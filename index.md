@@ -167,6 +167,15 @@ title: "Home"
 
 <section class="section">
   <div class="section-header">
+    <h3 class="section-title">Code</h3>
+  </div>
+  <p>
+    <a href="{{ '/codes/' | relative_url }}">List of the codes I have developed</a>: Python packages and repositories supporting my papers, in cheminformatics, synthetic biology and beyond.
+  </p>
+</section>
+
+<section class="section">
+  <div class="section-header">
     <h3 class="section-title">Talks</h3>
   </div>
   <ul>
