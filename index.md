@@ -182,7 +182,7 @@ title: "Home"
 
 <li>
   <strong>From Molecules to Metabolic Pathways: Computational Approaches for Retrobiosynthesis and Bioproduction, </strong>
-  <em>Séminaire Micalis</em>, 11.09.2026.
+  <em>Séminaire Micalis, Jouy-en-Josas</em>, 11.09.2026.
 </li>
 <li>
   <strong>Vectorized Chemical Reactions and Fingerprint Reverse Engineering for Molecular Design, </strong>

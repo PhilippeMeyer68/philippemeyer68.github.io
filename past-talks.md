@@ -48,7 +48,7 @@ permalink: /past-talks/
 <li>
   <strong>Glyph and writing system similarities using siamese neural networks (Poster session), </strong>
   <em>The Third Workshop on Language Technologies for Historical and Ancient Languages
-(LT4HALA 2024, LREC-COLING 2024), Turin, (Italie)</em>, 25.05.2024.
+(LT4HALA 2024, LREC-COLING 2024), Turin (Italie)</em>, 25.05.2024.
 </li>
 
 
