@@ -167,10 +167,10 @@ title: "Home"
 
 <section class="section">
   <div class="section-header">
-    <h3 class="section-title">Code</h3>
+    <h3 class="section-title">Codes</h3>
   </div>
   <p>
-    <a href="{{ '/codes/' | relative_url }}">List of the codes I have developed</a>: Python packages and repositories supporting my papers, in cheminformatics, synthetic biology and beyond.
+    <a href="{{ '/codes/' | relative_url }}">List of the codes I have developed</a>: Python packages and repositories supporting my work, in cheminformatics, synthetic biology and beyond.
   </p>
 </section>
 
