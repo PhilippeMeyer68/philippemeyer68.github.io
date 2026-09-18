@@ -258,7 +258,7 @@ title: "Home"
     </p>
 
   <p>
-    I also have a long-standing interest in Rennes-le-Château, its local history and heritage, and the enduring mystery surrounding the alleged treasure associated with the village. I occasionally write about related historical and iconographic subjects.
+    I also have an interest in Rennes-le-Château, its local history and the enduring mystery surrounding the alleged treasure associated with the village. I occasionally write about related historical subjects.
     <a href="https://portail-rennes-le-chateau.com/arques-ainte-anne-offrant-une-poire-a-lenfant-jesus-eglise/" target="_blank" rel="noopener">Article</a>
   </p>
 </section>
