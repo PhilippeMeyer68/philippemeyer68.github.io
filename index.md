@@ -254,7 +254,8 @@ title: "Home"
     I preserve and share the work of my grandfather Pierre Meyer on traces of a prehistoric civilisation in Alsace (6000–2000 BC), characterised by a Great Goddess cult.
     <a href="https://www.youtube.com/@mysteresdelagrandedeesse112/" target="_blank" rel="noopener">
       YouTube</a>,
-    <a href="https://amzn.eu/d/gH21WYH" target="_blank" rel="noopener">Book</a>
+    <a href="https://amzn.eu/d/gH21WYH" target="_blank" rel="noopener">Book (Amazon)</a>,
+    <a href="https://www.ebay.fr/itm/227529177031" target="_blank" rel="noopener">Book (Ebay)</a>
     </p>
 
   <p>
