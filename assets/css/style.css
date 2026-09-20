@@ -1,22 +1,30 @@
-/* ---------- Global theme (minimalist light) ---------- */
+/* ---------- Global theme (warm burgundy) ---------- */
 :root {
-  --header-bg: #f3eed9d5;         /* soft light grey header */
+  /* Soft blues from the banner artwork */
+  --header-bg: #cfdfec;
 
-  --bg-top: #f3eed95f;            /* near-white background top */
-  --bg-bottom: #ffffff;         /* plain white bottom */  
+  --bg-top: #d8e6f0;
+  --bg-bottom: #f5f9fc;
 
-  --text: #222222;              /* main dark text */
-  --muted: #666666;             /* secondary grey text */
-  --link: #97552b;              /* muted blue for links */
-  --link-hover: #bd1826;        /* slightly darker on hover */
-  --border: #e1e1dc;            /* light grey borders */
-  --accent: #370404df;            /* section titles, emphasis */
+  /* Typography */
+  --text: #30282b;              /* warm charcoal */
+  --muted: #6c5a60;            /* muted warm mauve-grey */
 
-  --footer-bg: #f3eed9d5;         /* light footer background */
+  /* Burgundy accents */
+  --link: #86384d;              /* warm burgundy */
+  --link-hover: #641f34;        /* deep wine */
+  --accent: #7b3045;            /* elegant dark burgundy */
+
+  /* Borders */
+  --border: #d1c4c8;            /* soft dusty rose-grey */
+
+  --footer-bg: #cfdfec;
 
   --max-width: 880px;
 }
 
+
+/* ---------- Base ---------- */
 html {
   font-size: 16px;
   scroll-behavior: smooth;
@@ -28,8 +36,13 @@ body {
   font-family: "Source Serif 4", Georgia, serif;
   line-height: 1.75;
   color: var(--text);
-  background: linear-gradient(to bottom, var(--bg-top) 0%, var(--bg-bottom) 100%);
+  background: linear-gradient(
+    to bottom,
+    var(--bg-top) 0%,
+    var(--bg-bottom) 100%
+  );
 }
+
 
 /* ---------- Layout ---------- */
 .container {
@@ -38,11 +51,27 @@ body {
   padding: 2rem 1.5rem;
 }
 
+
 /* ---------- Header & nav ---------- */
 header {
-  background: var(--header-bg);
+  background-color: var(--header-bg);
+
+  background-image:
+    linear-gradient(
+      to bottom,
+      rgba(255, 255, 255, 0.5),
+      rgba(255, 255, 255, 0.32)
+    ),
+    url("/assets/images/banner_molecular.webp");
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
   border-bottom: 1px solid var(--border);
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.06);
+
+  box-shadow:
+    0 2px 10px rgba(0, 0, 0, 0.06);
 }
 
 .site-header .container {
@@ -50,25 +79,35 @@ header {
   justify-content: space-between;
   align-items: baseline;
   flex-wrap: wrap;
-  padding: 1rem 1.5rem;
+
+  padding: 3rem 1.5rem;
 }
 
+
+/* ---------- Site title ---------- */
 .site-title {
   margin: 0;
+
   font-family: "Cormorant Unicase", serif;
   text-transform: uppercase;
+
   letter-spacing: 0.05em;
+
   font-size: 2rem;
   font-weight: 600;
 }
 
 .site-title a {
   color: var(--accent);
+
   text-decoration: none;
+
+  text-shadow:
+    0 1px 2px rgba(255, 255, 255, 0.75);
 }
 
 .site-title a:hover {
-  color: var(--accent);
+  color: var(--link-hover);
 }
 
 .site-tagline {
@@ -76,17 +115,26 @@ header {
   color: var(--muted);
 }
 
+
+/* ---------- Navigation ---------- */
 .site-nav {
   display: flex;
   gap: 1rem;
+
   font-size: 0.95rem;
 }
 
 .nav-link {
   color: var(--muted);
+
   text-decoration: none;
+
   padding: 0.3rem 0.5rem;
+
   transition: color 0.2s ease;
+
+  text-shadow:
+    0 1px 2px rgba(255, 255, 255, 0.75);
 }
 
 .nav-link:hover,
@@ -94,36 +142,19 @@ header {
   color: var(--accent);
 }
 
-/* ---------- Banner (same width as content) ---------- */
-.site-banner {
-  width: 100%;
-  padding: 0;
-}
 
-.site-banner-inner {
-  max-width: var(--max-width);
-  margin: 0 auto;
-  height: 45px;
-  background-image: url("/assets/images/banner_limoux_square.jpg");
-  background-repeat: repeat-x;
-  background-size: auto 100%;
-  background-position: center;
-  border-top: 1px solid var(--border);
-  border-bottom: 1px solid var(--border);
-}
-
-/* Remove vertical padding from the container when used inside the banner */
-.site-banner .container {
-  padding-top: 0;
-  padding-bottom: 0;
-}
-
-/* ---------- Hero (two columns, rectangular photo) ---------- */
+/* ---------- Hero ---------- */
 .hero {
   margin-top: 0;
+
   display: grid;
-  grid-template-columns: minmax(0, 0.8fr) minmax(0, 2.2fr);
+
+  grid-template-columns:
+    minmax(0, 0.8fr)
+    minmax(0, 2.2fr);
+
   gap: 0;
+
   align-items: center;
 }
 
@@ -136,18 +167,31 @@ header {
   max-width: 200px;
   width: 100%;
   height: auto;
+
   border-radius: 8px;
-  border: 1px solid var(--border);
-  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
+
+  border:
+    1px solid var(--border);
+
+  box-shadow:
+    0 6px 18px rgba(0, 0, 0, 0.12);
+
   object-fit: cover;
-  background-color: #f1f1ee; /* neutral fallback */
+
+  background-color: #f1f1ee;
+
+  cursor: pointer;
 }
+
 
 /* ---------- Sections ---------- */
 .section {
   margin: 1.5rem 0;
+
   padding-top: 2rem;
-  border-top: 1px solid var(--border);
+
+  border-top:
+    1px solid var(--border);
 }
 
 .section:first-of-type {
@@ -157,13 +201,22 @@ header {
 
 .section h3 {
   margin-top: 0;
-  margin-bottom: 0.8rem;
+  margin-bottom: 0.9rem;
+
   color: var(--accent);
-  font-family: "Playfair Display", Georgia, serif;
+
+  font-family:
+    "Playfair Display",
+    Georgia,
+    serif;
+
   font-weight: 600;
+
   font-size: 1.5em;
+
   letter-spacing: 0.02em;
 }
+
 
 /* ---------- Lists ---------- */
 ul {
@@ -172,20 +225,51 @@ ul {
 }
 
 ul li + li {
-  margin-top: 0.3rem;
+  margin-top: 0.45rem;
 }
 
-/* ---------- External links (if you use .external-links) ---------- */
+/* Publication / project titles */
+.section li strong {
+  font-weight: 600;
+}
+
+/* The site owner's name inside author lists */
+.author-self {
+  font-style: italic;
+}
+
+
+/* ---------- Global links ---------- */
+a {
+  color: var(--link);
+
+  text-decoration: none;
+
+  transition:
+    color 0.2s ease;
+}
+
+a:hover {
+  color: var(--link-hover);
+}
+
+
+/* ---------- External links ---------- */
 .external-links {
   font-size: 1rem;
+
   color: var(--muted);
 }
 
 .external-links a {
   color: var(--text);
+
   text-decoration: none;
+
   padding: 0 0.25rem;
-  transition: color 0.2s ease;
+
+  transition:
+    color 0.2s ease;
 }
 
 .external-links a:hover {
@@ -194,62 +278,67 @@ ul li + li {
 
 .external-links span {
   padding: 0 0.15rem;
+
   color: var(--border);
 }
+
 
 /* ---------- Footer ---------- */
 footer {
   margin-top: 0;
-  padding: 0rem 0 0rem;
+
+  padding: 1.5rem 0;
+
   text-align: center;
+
   font-size: 0.9rem;
+
   color: var(--text);
-  border-top: 1px solid var(--border);
-  background: var(--footer-bg);
+
+  border-top:
+    1px solid var(--border);
+
+  background-color:
+    var(--footer-bg);
+
+  background-image:
+    linear-gradient(
+      to bottom,
+      rgba(255, 255, 255, 0.32),
+      rgba(255, 255, 255, 0.5)
+    ),
+    url("/assets/images/footer_microbial.webp");
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
-/* ---------- Global links ---------- */
-a {
-  color: var(--link);
-  text-decoration: none;
+.footer-inner p {
+  text-shadow:
+    0 1px 2px rgba(255, 255, 255, 0.75);
 }
 
-a:hover {
-  color: var(--link-hover);
-}
 
-/* ---------- Responsive ---------- */
-@media (max-width: 768px) {
-  header .container {
-    flex-direction: column;
-    align-items: flex-start;
-  }
-
-  .hero {
-    grid-template-columns: 1fr;
-    row-gap: 1.5rem;
-  }
-
-  .hero-photo {
-    justify-content: flex-start;
-  }
-}
-
-/* Clickable profile photo */
-.hero-photo img {
-  cursor: pointer;
-  border-radius: 8px;
-}
-
-/* Modal background */
+/* ---------- Photo modal ---------- */
 .modal {
   display: none;
+
   position: fixed;
-  top: 0; left: 0;
-  width: 100%; height: 100%;
-  background: rgba(0,0,0,0.85);
+
+  top: 0;
+  left: 0;
+
+  width: 100%;
+  height: 100%;
+
+  background:
+    rgba(0, 0, 0, 0.85);
+
   text-align: center;
+
   padding-top: 5vh;
+
   z-index: 9999;
 }
 
@@ -258,38 +347,45 @@ a:hover {
   display: block;
 }
 
-/* Full-size image */
 .modal-img {
   max-width: 90%;
   max-height: 80vh;
+
   border-radius: 6px;
 }
 
-/* Caption */
 .modal-caption {
   color: #fff;
+
   margin-top: 10px;
+
   font-size: 1.1em;
 }
 
-/* Close button */
 .modal-close {
   position: absolute;
+
   top: 20px;
   right: 30px;
+
   color: #fff;
+
   font-size: 40px;
+
   text-decoration: none;
 }
 
-/* Demo video in the codes list */
+
+/* ---------- Demo video in codes list ---------- */
 .code-demo {
   margin: 12px 0 4px;
 }
 
 .code-demo > summary {
   cursor: pointer;
+
   width: fit-content;
+
   color: var(--link);
 }
 
@@ -299,9 +395,36 @@ a:hover {
 
 .code-demo video {
   display: block;
+
   width: 100%;
   max-width: 560px;
   height: auto;
+
   margin-top: 10px;
+
   border-radius: 6px;
+}
+
+
+/* ---------- Responsive ---------- */
+@media (max-width: 768px) {
+  header .container {
+    flex-direction: column;
+
+    align-items: flex-start;
+  }
+
+  .hero {
+    grid-template-columns: 1fr;
+
+    row-gap: 1.5rem;
+  }
+
+  .hero-photo {
+    justify-content: flex-start;
+  }
+
+  .site-header .container {
+    padding: 1.75rem 1.5rem;
+  }
 }
