@@ -281,3 +281,27 @@ a:hover {
   font-size: 40px;
   text-decoration: none;
 }
+
+/* Demo video in the codes list */
+.code-demo {
+  margin: 12px 0 4px;
+}
+
+.code-demo > summary {
+  cursor: pointer;
+  width: fit-content;
+  color: var(--link);
+}
+
+.code-demo > summary:hover {
+  color: var(--link-hover);
+}
+
+.code-demo video {
+  display: block;
+  width: 100%;
+  max-width: 560px;
+  height: auto;
+  margin-top: 10px;
+  border-radius: 6px;
+}
