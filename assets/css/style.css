@@ -376,6 +376,23 @@ footer {
 }
 
 
+/* ---------- Topics and package lists in codes list ---------- */
+.code-topics,
+.code-stack {
+  display: block;
+
+  margin-top: 4px;
+
+  color: var(--muted);
+
+  font-size: 0.9em;
+}
+
+.code-label {
+  font-weight: 600;
+}
+
+
 /* ---------- Demo video in codes list ---------- */
 .code-demo {
   margin: 12px 0 4px;

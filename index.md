@@ -35,8 +35,7 @@ title: "Home"
   </div>
   <ul>
 <li>
-  <strong>An agentic retrobiosynthesis framework with learned frontier selection
-, </strong>
+  <strong>An agentic retrobiosynthesis framework with learned frontier selection, </strong>
   <span class="author-self">Meyer, P.</span>, Gricourt, G., Duigou, T., Hérisson J., Faulon, J.-L.,
   in reviewing, 2026.
     <a href="https://arxiv.org/abs/2608.30702" target="_blank" rel="noopener">Link</a>
