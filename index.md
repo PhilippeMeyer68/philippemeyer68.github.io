@@ -75,7 +75,7 @@ title: "Home"
 <li>
   <strong>A Quantitative Visual Taxonomy of Worldwide Writing Systems, </strong>
   <span class="author-self">Meyer, P.</span>, Roman, C.,
-  <em>Proceedings of the 40th Conference on Neural Information Processing Systems -- NeurIPS</em>, 2026.
+  <em>Proceedings of the 40th Conference on Neural Information Processing Systems (NeurIPS)</em>, 2026.
 </li>
 <li>
   <strong>Living bacterial reservoir computers for information processing and sensing, </strong>
