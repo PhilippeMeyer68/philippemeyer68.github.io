@@ -73,6 +73,11 @@ title: "Home"
   </div>
   <ul>
 <li>
+  <strong>A Quantitative Visual Taxonomy of Worldwide Writing Systems, </strong>
+  <span class="author-self">Meyer, P.</span>, Roman, C.,
+  <em>Proceedings of the 40th Conference on Neural Information Processing Systems (NeurIPS 2026)</em>, 2026.
+</li>
+<li>
   <strong>Living bacterial reservoir computers for information processing and sensing, </strong>
   Ahavi, P., Hoang, A., <span class="author-self">Meyer, P.</span>, Berthier, S., Fiorini, F., Castelli, F., Epaulard, O., Le Gouellec, A., Faulon, J.-L.,
   <em>Cell Systems</em>, 2026.
