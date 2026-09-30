@@ -35,12 +35,6 @@ title: "Home"
   </div>
   <ul>
 <li>
-  <strong>An agentic retrobiosynthesis framework with learned frontier selection, </strong>
-  <span class="author-self">Meyer, P.</span>, Gricourt, G., Duigou, T., Hérisson J., Faulon, J.-L.,
-  in reviewing, 2026.
-    <a href="https://arxiv.org/abs/2608.30702" target="_blank" rel="noopener">Link</a>
-</li>
-<li>
   <strong>Engineering growth-coupled metabolic biosensors for disease prognosis and diagnosis using full growth trajectories, </strong>
   Ahavi, P., Hoang, A., <span class="author-self">Meyer, P.</span>, Epaulard, O., Le Gouellec, A., Faulon, J.-L.,
   in reviewing, 2026.
@@ -73,9 +67,16 @@ title: "Home"
   </div>
   <ul>
 <li>
-  <strong>A Quantitative Visual Taxonomy of Worldwide Writing Systems, </strong>
+  <strong>An agentic retrobiosynthesis framework with learned frontier selection, </strong>
+  <span class="author-self">Meyer, P.</span>, Gricourt, G., Duigou, T., Hérisson J., Faulon, J.-L.,
+  accepted at the <em>NeurIPS 2026 Workshop on ML4Molecules: Agentic Systems for Molecular Sciences</em>, 2026. 
+    <a href="https://arxiv.org/abs/2608.30702" target="_blank" rel="noopener">Link</a>
+</li>
+
+<li>
+  <strong>A quantitative visual taxonomy of worldwide writing systems, </strong>
   <span class="author-self">Meyer, P.</span>, Roman, C.,
-  <em>Proceedings of the 40th Conference on Neural Information Processing Systems (NeurIPS)</em>, 2026.
+  to appear in <em>Proceedings of the 40th Conference on Neural Information Processing Systems (NeurIPS)</em>, 2026.
 </li>
 <li>
   <strong>Living bacterial reservoir computers for information processing and sensing, </strong>
