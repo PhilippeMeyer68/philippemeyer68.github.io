@@ -47,12 +47,6 @@ title: "Home"
     <a href="https://doi.org/10.26434/chemrxiv.15006884/v1" target="_blank" rel="noopener">Link</a>, <a href="https://github.com/brsynth/morganrxn" target="_blank" rel="noopener">Code</a>
 </li>
 <li>
-  <strong>End-to-end mapping of membrane transport from chemical structure to microorganisms, </strong>
-  Gricourt, G., Duigou, T., <span class="author-self">Meyer, P.</span>, Faulon, J.-L.,
-  in reviewing, 2026.
-    <a href="https://www.biorxiv.org/content/10.64898/2026.05.12.724480v1" target="_blank" rel="noopener">Link</a>
-</li>
-<li>
   <strong>Contrastive-to-self-supervised: a two-stage framework for script similarity learning, </strong>
   Roman, C., <span class="author-self">Meyer, P.</span>,
   in reviewing, 2026.
@@ -77,6 +71,12 @@ title: "Home"
   <strong>A quantitative visual taxonomy of worldwide writing systems, </strong>
   <span class="author-self">Meyer, P.</span>, Roman, C.,
   to appear in <em>Proceedings of the 40th Conference on Neural Information Processing Systems (NeurIPS)</em>, 2026.
+</li>
+<li>
+  <strong>End-to-end mapping of membrane transport from chemical structure to microorganisms, </strong>
+  Gricourt, G., Duigou, T., <span class="author-self">Meyer, P.</span>, Faulon, J.-L.,
+  to appear in <em>Communications Chemistry</em>, 2026.
+    <a href="https://www.biorxiv.org/content/10.64898/2026.05.12.724480v1" target="_blank" rel="noopener">Link</a>, <a href="https://github.com/brsynth/chemproflow" target="_blank" rel="noopener">Code</a>
 </li>
 <li>
   <strong>Living bacterial reservoir computers for information processing and sensing, </strong>
