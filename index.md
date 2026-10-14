@@ -41,12 +41,6 @@ title: "Home"
     <a href="https://doi.org/10.64898/2026.08.04.740108" target="_blank" rel="noopener">Link</a>, <a href="https://github.com/brsynth/mutant-covid" target="_blank" rel="noopener">Code</a>
 </li>
 <li>
-  <strong>Representing chemical and enzymatic reactions in fingerprint space for applicability filtering and classification, </strong>
-  <span class="author-self">Meyer, P.</span>, Duigou, T., Gricourt, G., Faulon, J.-L.,
-  in reviewing, 2026.
-    <a href="https://doi.org/10.26434/chemrxiv.15006884/v1" target="_blank" rel="noopener">Link</a>, <a href="https://github.com/brsynth/morganrxn" target="_blank" rel="noopener">Code</a>
-</li>
-<li>
   <strong>Contrastive-to-self-supervised: a two-stage framework for script similarity learning, </strong>
   Roman, C., <span class="author-self">Meyer, P.</span>,
   in reviewing, 2026.
@@ -60,6 +54,12 @@ title: "Home"
     <h3 class="section-title">Publications</h3>
   </div>
   <ul>
+<li>
+  <strong>Representing chemical and enzymatic reactions in fingerprint space for applicability filtering and classification, </strong>
+  <span class="author-self">Meyer, P.</span>, Duigou, T., Gricourt, G., Faulon, J.-L.,
+  to appear in <em>Journal of Cheminformatics</em>, 2026.
+    <a href="https://doi.org/10.26434/chemrxiv.15006884/v1" target="_blank" rel="noopener">Link</a>, <a href="https://github.com/brsynth/morganrxn" target="_blank" rel="noopener">Code</a>
+</li>
 <li>
   <strong>An agentic retrobiosynthesis framework with learned frontier selection, </strong>
   <span class="author-self">Meyer, P.</span>, Gricourt, G., Duigou, T., Hérisson J., Faulon, J.-L.,
