@@ -81,7 +81,7 @@ title: "Home"
 <li>
   <strong>Living bacterial reservoir computers for information processing and sensing, </strong>
   Ahavi, P., Hoang, A., <span class="author-self">Meyer, P.</span>, Berthier, S., Fiorini, F., Castelli, F., Epaulard, O., Le Gouellec, A., Faulon, J.-L.,
-  <em>Cell Systems</em>, 2026.
+  <em>Cell Systems</em>, 17 (8), 101654, 2026.
   <a href="https://www.cell.com/cell-systems/fulltext/S2405-4712(26)00136-5" target="_blank" rel="noopener">Link</a>, <a href="https://github.com/brsynth/bacterial_rc" target="_blank" rel="noopener">Code</a>, <a href="https://www.inrae.fr/actualites/bacterie-capable-predire-levolution-dune-maladie" target="_blank" rel="noopener">News (INRAE)</a>, <a href="https://sco.lt/7OAqGG" target="_blank" rel="noopener">News (UPSaclay)</a>
 </li>
 <li>
