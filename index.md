@@ -63,8 +63,8 @@ title: "Home"
 <li>
   <strong>An agentic retrobiosynthesis framework with learned frontier selection, </strong>
   <span class="author-self">Meyer, P.</span>, Gricourt, G., Duigou, T., Hérisson J., Faulon, J.-L.,
-  accepted at the <em>NeurIPS 2026 Workshop on ML4Molecules: Agentic Systems for Molecular Sciences</em>, 2026. 
-    <a href="https://arxiv.org/abs/2608.30702" target="_blank" rel="noopener">Link</a>
+  <em>NeurIPS 2026 Workshop on ML4Molecules: Agentic Systems for Molecular Sciences</em>, 2026. 
+    <a href="https://openreview.net/forum?id=CFPJzYbBPO" target="_blank" rel="noopener">Link</a>, <a href="https://github.com/brsynth/morganbiopilot/releases/tag/ws2026-accepted" target="_blank" rel="noopener">Code</a>
 </li>
 
 <li>
