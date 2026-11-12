@@ -87,7 +87,7 @@ title: "Home"
 <li>
   <strong>RetroRules 2026: an expanded database combining biochemical and organic reaction templates for pathway discovery, </strong>
   Duigou, T., <span class="author-self">Meyer, P.</span>, Faulon, J.-L.,
-  <em>Nucleic Acids Research</em>, 2026.
+  <em>Nucleic Acids Research</em>, 54 (D1), D1799–D1806, 2026.
   <a href="https://doi.org/10.1093/nar/gkaf1261" target="_blank" rel="noopener">Link</a>, <a href="https://retrorules.org/" target="_blank" rel="noopener">API</a>
 </li>
 
