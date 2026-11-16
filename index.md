@@ -75,8 +75,8 @@ title: "Home"
 <li>
   <strong>End-to-end mapping of membrane transport from chemical structure to microorganisms, </strong>
   Gricourt, G., Duigou, T., <span class="author-self">Meyer, P.</span>, Faulon, J.-L.,
-  to appear in <em>Communications Chemistry</em>, 2026.
-    <a href="https://www.biorxiv.org/content/10.64898/2026.05.12.724480v1" target="_blank" rel="noopener">Link</a>, <a href="https://github.com/brsynth/chemproflow" target="_blank" rel="noopener">Code</a>
+  <em>Communications Chemistry</em>, 2026.
+    <a href="https://doi.org/10.1038/s42004-026-02269-z" target="_blank" rel="noopener">Link</a>, <a href="https://github.com/brsynth/chemproflow" target="_blank" rel="noopener">Code</a>
 </li>
 <li>
   <strong>Living bacterial reservoir computers for information processing and sensing, </strong>
