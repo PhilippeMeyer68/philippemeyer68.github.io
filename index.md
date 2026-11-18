@@ -57,7 +57,7 @@ title: "Home"
 <li>
   <strong>Representing chemical and enzymatic reactions in fingerprint space for applicability filtering and classification, </strong>
   <span class="author-self">Meyer, P.</span>, Duigou, T., Gricourt, G., Faulon, J.-L.,
-  to appear in <em>Journal of Cheminformatics</em>, 2026.
+  <em>Journal of Cheminformatics</em>, 2026.
     <a href="https://doi.org/10.1186/s13321-026-01322-2" target="_blank" rel="noopener">Link</a>, <a href="https://github.com/brsynth/morganrxn" target="_blank" rel="noopener">Code</a>
 </li>
 <li>
