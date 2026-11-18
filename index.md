@@ -70,7 +70,8 @@ title: "Home"
 <li>
   <strong>A quantitative visual taxonomy of worldwide writing systems, </strong>
   <span class="author-self">Meyer, P.</span>, Roman, C.,
-  to appear in <em>Proceedings of the 40th Conference on Neural Information Processing Systems (NeurIPS)</em>, 2026.
+  <em>Proceedings of the 40th Conference on Neural Information Processing Systems (NeurIPS)</em>, 2026.
+      <a href="https://openreview.net/forum?id=VLPMAYjWxj" target="_blank" rel="noopener">Link</a>, <a href="https://github.com/PhilippeMeyer68/glyph-worldwide" target="_blank" rel="noopener">Code</a>, <a href="https://recorder-v3.slideslive.com/?share=115942&s=05b79993-7155-4cc5-9681-155286601a75" target="_blank" rel="noopener">Slideslive</a>
 </li>
 <li>
   <strong>End-to-end mapping of membrane transport from chemical structure to microorganisms, </strong>
